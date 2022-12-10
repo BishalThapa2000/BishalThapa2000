@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @BishalThapa2000
+- 👀 I’m interested in Coading
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Web Development and java projects
+- 📫 How to reach me (leave it to the desteny)
+
+<!---
+BishalThapa2000/BishalThapa2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
